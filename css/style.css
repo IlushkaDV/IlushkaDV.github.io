@@ -1,0 +1,40 @@
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+/* Футер */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Главный контент */
+main {
+  padding: 20px;
+}
+
+/* Карточки */
+.card {
+  margin-bottom: 20px;
+}
+
+/* Кнопка в навигационной панели */
+.navbar .btn {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+/* Блок с прокруткой */
+.scroll-block {
+  overflow-y: scroll;
+  max-height: 200px;
+}
+
+/* Дополнительные стили для эстетичного оформления */
+body {
+  font-family: Arial, sans-serif;
+}
