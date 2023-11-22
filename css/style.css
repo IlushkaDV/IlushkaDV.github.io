@@ -3,9 +3,7 @@ body {
   background-color: #f8f9fa;
   color: #343a40;
   background-image: url('img/Bugatti-ChironWP.jpeg'); 
-  background-repeat: no-repeat;
-  background-size: cover; 
-  background-position: center; 
+
 }
     .scrollable-block {
       width: 500px; 
